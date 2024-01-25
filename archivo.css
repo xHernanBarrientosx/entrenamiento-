@@ -1,5 +1,30 @@
-.social-icons{
-background-color: blueviolet
+body{background-color: rgb(50, 161, 205);
+font-family: Arial, Helvetica, sans-serif;
+color: blue;
+margin: 20px;
+}
+
+header {
+    display: flex;
+    flex-direction: column; /* Puedes ajustar la dirección según tus necesidades */
+    align-items: center;
+    padding: 100px;
+    color:brown 
+
 
 
 }
+
+
+
+
+    /* Agrega estilos para el botón */
+.button.ver-sitios {
+    background-color: #3498db; /* Cambia el color de fondo a azul */
+    color: #fff; /* Cambia el color del texto a blanco */
+    padding: 10px 20px; /* Ajusta el espaciado interno para hacerlo más grande */
+    border: none; /* Elimina el borde */
+    border-radius: 5px; /* Agrega bordes redondeados */
+    margin-right: 20px; /* Mueve el botón a la derecha con un margen derecho */
+    /* Puedes agregar más estilos según tus preferencias */
+ }

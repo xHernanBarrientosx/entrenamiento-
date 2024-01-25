@@ -1,0 +1,21 @@
+body{
+background-color:black;
+}
+.contenedor1 div {
+background-color: burlywood;
+width: 100px;
+margin: 10px;
+line-height: 75px;
+font-size:  30px;;
+
+
+}
+
+.contenedor1{
+display:flex  ;
+background-color: red;
+padding: 20px;
+border:solid white; 
+align-content: space-between;
+
+}
